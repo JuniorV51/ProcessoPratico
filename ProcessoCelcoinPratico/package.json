@@ -1,0 +1,22 @@
+{
+  "name": "processocelcoinpratico",
+  "version": "1.0.0",
+  "description": "Processo Pratico Celcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniorV51/ProcessoCelcoin.git"
+  },
+  "author": "Luiz Claudio Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuniorV51/ProcessoCelcoin/issues"
+  },
+  "homepage": "https://github.com/JuniorV51/ProcessoCelcoin#readme",
+  "dependencies": {
+    "cypress": "^10.0.3"
+  }
+}
